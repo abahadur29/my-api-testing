@@ -151,6 +151,6 @@ Ran all test suites.
 
 **Aditya Bahadur**  
 KIIT University — B.Tech CSE, 3rd Year  
-GitHub: [https://github.com/adityabahadur](https://github.com/adityabahadur)
+GitHub: [https://github.com/abahadur29](https://github.com/abahadur29)
 
 ---
